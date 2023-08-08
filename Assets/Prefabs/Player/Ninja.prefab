@@ -14,6 +14,8 @@ GameObject:
   - component: {fileID: 7932995044149789458}
   - component: {fileID: 7932995044149789460}
   - component: {fileID: 5346382854837118054}
+  - component: {fileID: -7836897820137885637}
+  - component: {fileID: -3838695538771045534}
   m_Layer: 0
   m_Name: Ninja
   m_TagString: Player
@@ -324,8 +326,45 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fuerzaHorizontal: 5
-  fuerzaSalto: 8
-  alturaRayo: 1
+  fuerzaSalto: 12
+  alturaRayo: 2
   capaPiso:
     serializedVersion: 2
     m_Bits: 64
+--- !u!114 &-7836897820137885637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7932995044149789470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ea2ed7f866638a41aec36a7000abc75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bala: {fileID: 0}
+  tiempoVidaBala: 2
+--- !u!114 &-3838695538771045534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7932995044149789470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c092be08f62cd4d47b1658fd631a1d4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vidaTotal: 0
+  vidaActual: 0
+  textoVidaPlayer: {fileID: 0}
+  posicionInicial: {x: 0, y: 0, z: 0}
+  fuerzaHorizontal: 0
+  fuerzaVertical: 0
+  altruaRayo: 0
+  piso:
+    serializedVersion: 2
+    m_Bits: 0
+  tocandoPiso: 0
