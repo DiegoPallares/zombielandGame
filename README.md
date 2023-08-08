@@ -1,2 +1,2 @@
 # zombielandGame
-update de Readme 1
+Diego Fernando Pallares Ramirez
