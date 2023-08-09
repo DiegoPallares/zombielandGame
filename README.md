@@ -3,16 +3,16 @@
 ## Mi nombre es Diego Fernando Pallares Ramirez, y este es mi repositorio del juego "zombielandGame"
 
 ### Interfaz Principal
-[![1.png](https://i.postimg.cc/13pK7XmN/1.png)](https://postimg.cc/gx2RnY6Y)
+[![1.png](https://i.postimg.cc/CKRKQdDs/1.png)](https://postimg.cc/WDPjDN5d)
 
 ### Juego
-[![2.png](https://i.postimg.cc/VkB9kGHV/2.png)](https://postimg.cc/nXr9dkx4)
+[![2.png](https://i.postimg.cc/VLzkcKn6/2.png)](https://postimg.cc/9zNhdtx5)
 
 ###  Menu Principal
-[![3.png](https://i.postimg.cc/qRg2QkBP/3.png)](https://postimg.cc/7G8CZr29)
+[![3.png](https://i.postimg.cc/pXkXVKJB/3.png)](https://postimg.cc/MvM8dM4c)
 
 ### Panel Ayuda
-[![4.png](https://i.postimg.cc/tRZhxCMP/4.png)](https://postimg.cc/yWKgqBBY)
+[![4.png](https://i.postimg.cc/VkVfn1Tr/4.png)](https://postimg.cc/CRbpVywS)
 
 ### Panel Desarrollador
-[![5.png](https://i.postimg.cc/Sxr8hXn0/5.png)](https://postimg.cc/PCCNb5bK)
+[![5.png](https://i.postimg.cc/k5Rnyz3j/5.png)](https://postimg.cc/06xRktNm)
