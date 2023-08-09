@@ -12,7 +12,7 @@
 [![3.png](https://i.postimg.cc/pXkXVKJB/3.png)](https://postimg.cc/MvM8dM4c)
 
 ### Panel Ayuda
-[![4.png](https://i.postimg.cc/VkVfn1Tr/4.png)](https://postimg.cc/CRbpVywS)
+[![4.png](https://i.postimg.cc/sxsss2B8/4.png)](https://postimg.cc/r0nv9MNC)
 
 ### Panel Desarrollador
 [![5.png](https://i.postimg.cc/k5Rnyz3j/5.png)](https://postimg.cc/06xRktNm)
